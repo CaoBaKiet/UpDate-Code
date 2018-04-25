@@ -1,0 +1,3 @@
+﻿  Main().cpp
+d:\subjects\lập trình\oop\tuần 5 (bài 2)\main().cpp(140): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tuần 5 (Bài 2).vcxproj -> D:\Subjects\Lập Trình\OOP\x64\Debug\Tuần 5 (Bài 2).exe
