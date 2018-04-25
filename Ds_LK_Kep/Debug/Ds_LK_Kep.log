@@ -1,0 +1,4 @@
+﻿  Main().cpp
+d:\subjects\ctdl\baitapctdl\bt\ds_lk_kep\main().cpp(71): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\subjects\ctdl\baitapctdl\bt\ds_lk_kep\main().cpp(188): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Ds_LK_Kep.vcxproj -> D:\Subjects\CTDL\BaiTapCTDL\BT\Debug\Ds_LK_Kep.exe

@@ -1,0 +1,5 @@
+﻿  Main().cpp
+d:\subjects\ctdl\baitapctdl\bt\ds_lk_don\main().cpp(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\subjects\ctdl\baitapctdl\bt\ds_lk_don\main().cpp(169): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\subjects\ctdl\baitapctdl\bt\ds_lk_don\main().cpp(188): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DS_LK_Don.vcxproj -> D:\Subjects\CTDL\BaiTapCTDL\BT\Debug\DS_LK_Don.exe
